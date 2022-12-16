@@ -1,0 +1,5 @@
+frontend memo
+to fetchChats from data.js in backend, install axios
+
+connection to database installation
+at parent directory, install mongoose 
